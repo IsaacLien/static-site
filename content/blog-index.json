@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Welcome to my blog!",
+        "slug": "welcome",
+        "date": "2024-01-13",
+        "excerpt": "this is where i post content!",
+        "path": "/content/posts/Welcome!.md"
+    },
+    {
+        "title": "Hello World",
+        "slug": "hello-world",
+        "date": "2024-01-13",
+        "excerpt": "Welcome to my first blog post! This is a demonstration of how markdown content works on this site.",
+        "path": "/content/posts/hello-world.md"
+    }
+] 
